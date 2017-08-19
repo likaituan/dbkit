@@ -1,0 +1,26 @@
+{
+  "name": "dbkit",
+  "version": "1.0.0",
+  "description": "node database kit collections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likaituan/dbkit.git"
+  },
+  "keywords": [
+    "node",
+    "db",
+    "database",
+    "mysql",
+    "mongodb"
+  ],
+  "author": "Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likaituan/dbkit/issues"
+  },
+  "homepage": "https://github.com/likaituan/dbkit#readme"
+}
